@@ -6,7 +6,7 @@ namespace TheWeatherMonitoringApp.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Weather Monitoring App!");
+            Console.WriteLine("Welcome to the Weather Monitoring App");
         }
     }
 }
