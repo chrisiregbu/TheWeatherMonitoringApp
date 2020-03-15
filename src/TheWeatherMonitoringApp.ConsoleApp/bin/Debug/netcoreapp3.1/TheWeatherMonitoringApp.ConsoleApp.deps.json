@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TheWeatherMonitoringApp.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "TheWeatherMonitoringApp.ClassLib": "1.0.0"
+        },
+        "runtime": {
+          "TheWeatherMonitoringApp.ConsoleApp.dll": {}
+        }
+      },
+      "TheWeatherMonitoringApp.ClassLib/1.0.0": {
+        "runtime": {
+          "TheWeatherMonitoringApp.ClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheWeatherMonitoringApp.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheWeatherMonitoringApp.ClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

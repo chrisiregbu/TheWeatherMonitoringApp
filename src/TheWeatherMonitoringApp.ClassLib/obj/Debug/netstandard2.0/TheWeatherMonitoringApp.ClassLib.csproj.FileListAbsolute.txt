@@ -1,0 +1,8 @@
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ClassLib\bin\Debug\netstandard2.0\TheWeatherMonitoringApp.ClassLib.deps.json
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ClassLib\bin\Debug\netstandard2.0\TheWeatherMonitoringApp.ClassLib.dll
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ClassLib\bin\Debug\netstandard2.0\TheWeatherMonitoringApp.ClassLib.pdb
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ClassLib\obj\Debug\netstandard2.0\TheWeatherMonitoringApp.ClassLib.csprojAssemblyReference.cache
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ClassLib\obj\Debug\netstandard2.0\TheWeatherMonitoringApp.ClassLib.AssemblyInfoInputs.cache
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ClassLib\obj\Debug\netstandard2.0\TheWeatherMonitoringApp.ClassLib.AssemblyInfo.cs
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ClassLib\obj\Debug\netstandard2.0\TheWeatherMonitoringApp.ClassLib.dll
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ClassLib\obj\Debug\netstandard2.0\TheWeatherMonitoringApp.ClassLib.pdb

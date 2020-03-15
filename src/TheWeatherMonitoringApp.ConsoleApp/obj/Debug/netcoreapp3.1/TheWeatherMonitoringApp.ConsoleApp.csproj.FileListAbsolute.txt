@@ -1,0 +1,14 @@
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\bin\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.exe
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\bin\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.deps.json
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\bin\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.runtimeconfig.json
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\bin\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.runtimeconfig.dev.json
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\bin\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.dll
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\bin\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.pdb
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\bin\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ClassLib.dll
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\bin\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ClassLib.pdb
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\obj\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.csprojAssemblyReference.cache
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\obj\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.AssemblyInfoInputs.cache
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\obj\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.AssemblyInfo.cs
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\obj\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.csproj.CopyComplete
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\obj\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.dll
+D:\git\dev\TheWeatherMonitoringApp\src\TheWeatherMonitoringApp.ConsoleApp\obj\Debug\netcoreapp3.1\TheWeatherMonitoringApp.ConsoleApp.pdb
